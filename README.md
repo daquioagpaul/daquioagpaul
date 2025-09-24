@@ -8,7 +8,7 @@
 
 <div align="center">
   
-# 👋 Hi, I'm Joshua "Jotty" Gencianeo!
+# 👋 Hi, I'm Paul Andrei Daquioag!
 
 ### 💻 Full Stack Developer | 🔗 IoT Specialist | 🚀 Tech Enthusiast | 🎯 Innovation Driver
 
